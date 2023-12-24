@@ -1,6 +1,6 @@
 # poo_polimorfismo
 Polimorfismo no C#
-<br>
+<br><br>
 <div align="center">
   <h3>Programa estilo bancco para entender o polimorfismo</h3>
   <img src="ImagensGit/1.png">
